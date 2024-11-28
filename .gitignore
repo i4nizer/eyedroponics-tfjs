@@ -1,6 +1,10 @@
 # Node.js dependencies
 node_modules/
 
+# Models and Datasets
+models/
+data/
+
 # Logs
 logs/
 *.log
